@@ -25,6 +25,6 @@ ___
 ___
 **Настройка проекта**
 
-<code>npm install <br>
-npm run build <br>
-npm run dev </code>
+<code>npm install  </code><br>
+<code>npm run build  </code><br>
+<code>npm run dev </code>
